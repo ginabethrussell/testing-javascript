@@ -1,6 +1,6 @@
-# Fundamentals of Testing
+## Fundamentals of Testing
 
-## Learn how automated JavaScript testing works by building your own framework!
+### Building a simple automated testing framework
 
 Lesson Order:
 

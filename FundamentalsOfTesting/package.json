@@ -1,0 +1,21 @@
+{
+  "name": "testing-javascript",
+  "version": "1.0.0",
+  "description": "A repo for my JavaScript Testing Fundamentals course",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ginabethrussell/testing-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ginabethrussell/testing-javascript/issues"
+  },
+  "homepage": "https://github.com/ginabethrussell/testing-javascript#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "mocking_fundamentals",
+  "version": "1.0.0",
+  "description": "JavaScript Mocking Fundamentals",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ginabethrussell/testing-javascript/MockingFundamentals.git"
+  },
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ginabethrussell/testing-javascript/MockingFundamentals/issues"
+  },
+  "homepage": "https://github.com/ginabethrussell/testing-javascript/MockingFundamentals#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}

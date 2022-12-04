@@ -1,20 +1,20 @@
 {
-  "name": "testing-javascript",
+  "name": "fundamentals_of_testing",
   "version": "1.0.0",
-  "description": "A repo for my JavaScript Testing Fundamentals course",
+  "description": "A repo for my JavaScript Testing Fundamentals module",
   "scripts": {
     "test": "jest"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ginabethrussell/testing-javascript.git"
+    "url": "git+https://github.com/ginabethrussell/testing-javascript/FundamentalsOfTesting.git"
   },
-  "author": "",
+  "author": "Gina Beth Russell",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ginabethrussell/testing-javascript/issues"
+    "url": "https://github.com/ginabethrussell/testing-javascript/FundamentalsOfTesting/issues"
   },
-  "homepage": "https://github.com/ginabethrussell/testing-javascript#readme",
+  "homepage": "https://github.com/ginabethrussell/testing-javascript/FundamentalsOfTesting#readme",
   "devDependencies": {
     "jest": "^29.3.1"
   }
